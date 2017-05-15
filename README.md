@@ -3,7 +3,7 @@
 
 # Input
 
-'''
+```
 let sfcards = [{suits: 'Spade', rank: '2'}, 
         {suits: 'Spade', rank: '3'},
         {suits: 'Spade', rank: '4'},
@@ -15,10 +15,10 @@ let fourCards = [{suits: 'Spade', rank: '2'},
         {suits: 'Heart', rank: '2'},
         {suits: 'Club', rank: '2'},
         {suits: 'Spade', rank: '6'}];
-'''
+```
 
 # 呼叫 function
 
-'''
+```
 console.log(compareDeckofCards(fourCards, sfcards));
-'''
+```
